@@ -1,0 +1,7 @@
+db
+models/*
+.idea
+__pycache__
+!/db/download.py
+!/db/preparing.py
+!/db/preprocessing.py
